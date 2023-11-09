@@ -1,0 +1,9 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/themaster/Documentos/2nd_year_SSOO/Prac_C++/ViewNet_Parte2'
+g++ -c -o main_receive.o main_receive.cc -g -I -std=c++17 -Wall -Weffc++ -Wextra 
+g++ -c -o Socket.o Socket.cc -g -I -std=c++17 -Wall -Weffc++ -Wextra 
+g++ -c -o File.o File.cc -g -I -std=c++17 -Wall -Weffc++ -Wextra 
+g++ -c -o main_functions.o main_functions.cc -g -I -std=c++17 -Wall -Weffc++ -Wextra 
+g++ -o recieve main_receive.o Socket.o File.o main_functions.o -g -I -std=c++17 -Wall -Weffc++ -Wextra 
+make: Leaving directory '/home/themaster/Documentos/2nd_year_SSOO/Prac_C++/ViewNet_Parte2'
+ 
