@@ -1,10 +1,8 @@
 #!./ptbash
 
-# parte 4.3 
+# parte 4.3 toda
 
 # Práctica de BASH: Traza de llamadas del sistema en los procesos.
-# Álvaro Pérez Ramos
-# 13/10/2023 - 07/11/2023
 
 ##### Constantes
 TITLE="Traza de llamadas del sistema en los procesos. Por Álvaro Pérez Ramos"
