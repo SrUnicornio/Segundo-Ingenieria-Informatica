@@ -13,5 +13,4 @@ else
   exit 0
 fi
 
-exit 0strace: exec: Text file busy
-strace: exec: Text file busy
+exit 0
