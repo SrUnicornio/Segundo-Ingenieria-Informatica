@@ -3,8 +3,6 @@
 #Parte 4.1 terminado
 
 # Práctica de BASH: Traza de llamadas del sistema en los procesos.
-# Álvaro Pérez Ramos
-# 10/13/2023
 
 ##### Constantes
 TITLE="Traza de llamadas del sistema en los procesos. Por Álvaro Pérez Ramos"
