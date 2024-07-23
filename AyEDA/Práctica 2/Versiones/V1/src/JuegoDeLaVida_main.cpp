@@ -5,7 +5,7 @@
  * Asigantura: Algoritmos y Estructuras de Datos Avanzadas
  *
  * @date: 12 FEB 2024
- * @author: Álvaro Pérez Ramos
+ * @author: 
  * @file: JuegoDeLaVida_main.cpp
  * @brief Implemtation of game od live
  * */

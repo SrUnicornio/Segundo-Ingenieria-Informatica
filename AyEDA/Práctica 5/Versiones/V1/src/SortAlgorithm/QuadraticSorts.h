@@ -7,7 +7,7 @@
  * Práctica 5: Algoritmos de ordenación
  *
  * @file QuadraticSorts.h
- * @author Álvaro Pérez Ramos
+ * @author 
  * @date 02 MAR 2024
  * @brief Fichero de cabecera para los métodos de ordenación de complejidad cuadrática
  */

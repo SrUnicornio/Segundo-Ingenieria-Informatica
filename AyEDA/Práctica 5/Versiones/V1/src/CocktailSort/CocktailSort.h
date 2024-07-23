@@ -7,7 +7,7 @@
  * Práctica 5: Algoritmos de ordenación
  * 
  * @file CocktailSort.h
- * @author Álvaro Pérez Ramos
+ * @author 
  * @date 02 MAR 2024
  * @brief Fichero de cabecera para el método de ordenación CocktailSort
  */

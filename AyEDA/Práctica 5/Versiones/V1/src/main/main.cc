@@ -7,7 +7,7 @@
  * Práctica 5: Algoritmos de ordenación
  * 
  * @file main.cc
- * @author Álvaro Pérez Ramos
+ * @author 
  * @date 02 MAR 2024
  * @brief Este programa ordena una secuencia de NIFs mediante distintos algoritmos de ordenación.
  * Algoritmos implementados:

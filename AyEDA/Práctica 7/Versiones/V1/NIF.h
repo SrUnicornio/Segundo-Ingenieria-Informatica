@@ -4,10 +4,10 @@
  * Grado en Ingeniería Informática
  * 
  * Algoritmos y Estructuras de Datos
- * Práctica 5: Algoritmos de ordenación
+ * Práctica 7: Árboles
  * 
  * @file NIF.h
- * @author Álvaro Pérez Ramos
+ * @author 
  * @date 02 MAR 2024
  * @brief Fichero de cabecera para la clase NIF
 */

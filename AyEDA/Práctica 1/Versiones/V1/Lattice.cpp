@@ -5,7 +5,7 @@
  * Asigantura: Algoritmos y Estructuras de Datos Avanzadas
  *
  * @date: 03 FEB 2024
- * @author: Álvaro Pérez Ramos
+ * @author:
  * @file Lattice.cpp
  * @brief Implementación de la clase Lattice
  */

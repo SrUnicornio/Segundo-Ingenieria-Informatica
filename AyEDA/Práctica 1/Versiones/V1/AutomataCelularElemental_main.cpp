@@ -5,7 +5,7 @@
  * Asigantura: Algoritmos y Estructuras de Datos Avanzadas
  *
  * @date: 03 FEB 2024
- * @author: Álvaro Pérez Ramos
+ * @author: 
  * @file AutomataCelularElemental_main.cpp
  * @brief Programa principal
   Create a program that simulates the evolution of a one-dimensional cellular automaton. The program will receive the following parameters:

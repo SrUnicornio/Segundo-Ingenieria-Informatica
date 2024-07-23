@@ -7,7 +7,7 @@
  * Práctica 5: Algoritmos de ordenación
  * 
  * @file Ordenation_Algorithms.h
- * @author Álvaro Pérez Ramos
+ * @author 
  * @date 02 MAR 2024
  * @brief Fichero de cabecera para los algoritmos de ordenación
  */

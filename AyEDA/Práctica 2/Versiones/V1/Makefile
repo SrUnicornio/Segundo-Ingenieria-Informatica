@@ -3,7 +3,7 @@
 # Grado en Ingeniería Informática
 # Asignatura: Algoritmos y Estructuras de Datos Avanzadas
 #
-# @author Álvaro Pérez Ramos
+# @auth
 # @date 03 FEB 2024
 # @brief A Makefile example for simple C++ programs
 # 

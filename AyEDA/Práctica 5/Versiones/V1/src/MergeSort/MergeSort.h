@@ -7,7 +7,7 @@
  * Práctica 5: Algoritmos de ordenación
  *
  * @file MergeSort.h
- * @author Álvaro Pérez Ramos
+ * @author Á
  * @date 02 MAR 2024
  * @brief Fichero de cabecera para el método de ordenación MergeSort
  */
