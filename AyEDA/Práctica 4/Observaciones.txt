@@ -1,0 +1,21 @@
+En esta practica ha fallado la modificaion, no ha salido
+
+Muchos errrores del funcionamiento, entre lso qeu se encuentra casi toda la practica
+
+Falto crear un corrrecto menu
+
+Se pedia que en vez de un NIF se usara una clase Libro
+
+el cual incluye 
+ISBN (LLLLNNNNNL)
+titulo
+autor
+editorial
+fecha (dd/mm/yyyy)
+edicion
+
+se busca por el ISBN, al buacar por este fallaba pues pedia todo lo demás, y sobrescribia
+
+Libro debe heredar de Key
+
+(esta parctica fua puntuadad como un 5.8/10)

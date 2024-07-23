@@ -1,0 +1,3 @@
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Modificado/build/CMakeFiles/rebuild_cache.dir
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Modificado/build/CMakeFiles/edit_cache.dir
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Modificado/build/CMakeFiles/Ordenation_Algorithms.dir

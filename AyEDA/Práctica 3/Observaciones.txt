@@ -1,0 +1,7 @@
+En esta practica ha fallado la modificaion, no ha salido
+
+Se pedia que se ampliara en el noborder n veces las filas o colmnas segun el tamaño de la matriz celular del apartado LIFECELL
+
+Falto mejorar el menú y funciona con errores, no se manejan las exepciones
+
+(esta parctica fua puntuadad como un 5/10)

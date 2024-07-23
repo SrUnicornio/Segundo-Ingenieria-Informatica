@@ -1,0 +1,12 @@
+En esta practica ha fallado la separiacion de ficheros, y parte de la modificaion
+
+La posicion ha de hacerse en el getCell y no en el nextState (Para saber si la posicion es correcta)
+
+la carpeta de los .h ha de estar donde los src y separado por "paquetes" esto quiere decir que si disponermos de un
+Lattice.h y un Lattice.cc dichos ficheros han de estar en ena carpeta Lattice/
+
+Lo mismo pasa con el resto de implementaciones, "Crear una carpeta por módulo"
+
+Otro punto a tener en cuenta evitar el uso de tanto if else y hacerlo más modular.
+
+(esta parctica fua puntuadad como un 8.2/10)

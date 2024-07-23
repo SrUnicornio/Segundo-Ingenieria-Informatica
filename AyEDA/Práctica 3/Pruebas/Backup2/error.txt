@@ -1,0 +1,51 @@
+AutomataCelulargeneral.cpp: In member function ‘virtual void Lattice2D_noborder::NextGeneration()’:
+AutomataCelulargeneral.cpp:339:3: error: ‘void Lattice2D::ComputeNextState()’ is private within this context
+  339 |   ComputeNextState();
+      |   ^~~~~~~~~~~~~~~~
+In file included from AutomataCelulargeneral.cpp:1:
+AutomataCelulargeneral.hpp:302:8: note: declared private here
+  302 |   void ComputeNextState();
+      |        ^~~~~~~~~~~~~~~~
+AutomataCelulargeneral.cpp:339:19: error: ‘void Lattice2D::ComputeNextState()’ is private within this context
+  339 |   ComputeNextState();
+      |   ~~~~~~~~~~~~~~~~^~
+AutomataCelulargeneral.hpp:302:8: note: declared private here
+  302 |   void ComputeNextState();
+      |        ^~~~~~~~~~~~~~~~
+AutomataCelulargeneral.cpp:342:3: error: ‘void Lattice2D::UpdateCellStates()’ is private within this context
+  342 |   UpdateCellStates();
+      |   ^~~~~~~~~~~~~~~~
+AutomataCelulargeneral.hpp:303:8: note: declared private here
+  303 |   void UpdateCellStates();
+      |        ^~~~~~~~~~~~~~~~
+AutomataCelulargeneral.cpp:342:19: error: ‘void Lattice2D::UpdateCellStates()’ is private within this context
+  342 |   UpdateCellStates();
+      |   ~~~~~~~~~~~~~~~~^~
+AutomataCelulargeneral.hpp:303:8: note: declared private here
+  303 |   void UpdateCellStates();
+      |        ^~~~~~~~~~~~~~~~
+AutomataCelulargeneral.cpp: In member function ‘virtual void Lattice2D_reflective::NextGeneration()’:
+AutomataCelulargeneral.cpp:414:3: error: ‘void Lattice2D::ComputeNextState()’ is private within this context
+  414 |   ComputeNextState();
+      |   ^~~~~~~~~~~~~~~~
+AutomataCelulargeneral.cpp:355:6: note: declared private here
+  355 | void Lattice2D::ComputeNextState()
+      |      ^~~~~~~~~
+AutomataCelulargeneral.cpp:414:19: error: ‘void Lattice2D::ComputeNextState()’ is private within this context
+  414 |   ComputeNextState();
+      |   ~~~~~~~~~~~~~~~~^~
+AutomataCelulargeneral.cpp:355:6: note: declared private here
+  355 | void Lattice2D::ComputeNextState()
+      |      ^~~~~~~~~
+AutomataCelulargeneral.cpp:415:3: error: ‘void Lattice2D::UpdateCellStates()’ is private within this context
+  415 |   UpdateCellStates();
+      |   ^~~~~~~~~~~~~~~~
+AutomataCelulargeneral.cpp:366:6: note: declared private here
+  366 | void Lattice2D::UpdateCellStates()
+      |      ^~~~~~~~~
+AutomataCelulargeneral.cpp:415:19: error: ‘void Lattice2D::UpdateCellStates()’ is private within this context
+  415 |   UpdateCellStates();
+      |   ~~~~~~~~~~~~~~~~^~
+AutomataCelulargeneral.cpp:366:6: note: declared private here
+  366 | void Lattice2D::UpdateCellStates()
+      |      ^~~~~~~~~

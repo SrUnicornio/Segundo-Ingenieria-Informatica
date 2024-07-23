@@ -1,0 +1,10 @@
+En esta practica ha fallado la separiacion de ficheros y parte de la modificaion
+
+la carpeta de los .h ha de estar donde los src y separado por "paquetes" esto quiere decir que si disponermos de un
+Board.h y un Board.cc dichos ficheros han de estar en ena carpeta Board/
+
+Lo mismo pasa con el resto de implementaciones, "Crear una carpeta por módulo"
+
+Otro punto a tener en cuenta evitar el uso de tanto if else y hacerlo más modular.
+
+(esta parctica fua puntuadad como un 7.6/10)

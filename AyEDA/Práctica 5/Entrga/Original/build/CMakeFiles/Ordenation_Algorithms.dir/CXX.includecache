@@ -1,0 +1,154 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/BubbleSort/BubbleSort.h
+../SortMethod/SortMethod.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/SortMethod/SortMethod.h
+algorithm
+-
+
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/CocktailSort/CocktailSort.h
+../SortMethod/SortMethod.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/SortMethod/SortMethod.h
+algorithm
+-
+
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/HeapSort/HeapSort.h
+../SortMethod/SortMethod.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/SortMethod/SortMethod.h
+algorithm
+-
+
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/InsertionSort/InsertionSort.h
+../SortMethod/SortMethod.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/SortMethod/SortMethod.h
+
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/MergeSort/MergeSort.h
+../SortMethod/SortMethod.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/SortMethod/SortMethod.h
+algorithm
+-
+
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/NIF/NIF.h
+iostream
+-
+cstdlib
+-
+ctime
+-
+
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/QuickSort/QuickSort.h
+../SortMethod/SortMethod.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/SortMethod/SortMethod.h
+algorithm
+-
+
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/RadixSort/RadixSort.h
+../SortMethod/SortMethod.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/SortMethod/SortMethod.h
+algorithm
+-
+cstring
+-
+
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/SelectionSort/SelectionSort.h
+../SortMethod/SortMethod.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/SortMethod/SortMethod.h
+algorithm
+-
+
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/Sequence/Sequence.h
+
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/ShellSort/ShellSort.h
+../SortMethod/SortMethod.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/SortMethod/SortMethod.h
+algorithm
+-
+stdexcept
+-
+
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/SortAlgorithm/LogarithmSorts.h
+../HeapSort/HeapSort.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/HeapSort/HeapSort.h
+../MergeSort/MergeSort.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/MergeSort/MergeSort.h
+../QuickSort/QuickSort.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/QuickSort/QuickSort.h
+
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/SortAlgorithm/OtherSorts.h
+../RadixSort/RadixSort.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/RadixSort/RadixSort.h
+../ShellSort/ShellSort.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/ShellSort/ShellSort.h
+../TimSort/TimSort.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/TimSort/TimSort.h
+
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/SortAlgorithm/QuadraticSorts.h
+../BubbleSort/BubbleSort.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/BubbleSort/BubbleSort.h
+../CocktailSort/CocktailSort.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/CocktailSort/CocktailSort.h
+../InsertionSort/InsertionSort.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/InsertionSort/InsertionSort.h
+../SelectionSort/SelectionSort.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/SelectionSort/SelectionSort.h
+
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/SortMethod/SortMethod.h
+../StaticSequence/StaticSequence.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/StaticSequence/StaticSequence.h
+iostream
+-
+
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/StaticSequence/StaticSequence.h
+../Sequence/Sequence.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/Sequence/Sequence.h
+
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/TimSort/TimSort.h
+../SortMethod/SortMethod.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/SortMethod/SortMethod.h
+algorithm
+-
+
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/main/Ordenation_Algorithms.h
+algorithm
+-
+cstdlib
+-
+cstring
+-
+ctime
+-
+iostream
+-
+stdexcept
+-
+string
+-
+vector
+-
+optional
+-
+fstream
+-
+../StaticSequence/StaticSequence.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/StaticSequence/StaticSequence.h
+../SortMethod/SortMethod.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/SortMethod/SortMethod.h
+../SortAlgorithm/QuadraticSorts.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/SortAlgorithm/QuadraticSorts.h
+../SortAlgorithm/LogarithmSorts.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/SortAlgorithm/LogarithmSorts.h
+../SortAlgorithm/OtherSorts.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/SortAlgorithm/OtherSorts.h
+../NIF/NIF.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/NIF/NIF.h
+
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/main/main.cc
+Ordenation_Algorithms.h
+/home/alvaro/Escritorio/PERSONAL/2º carrera/AyEDA/Practicas/Práctica 5/Entrga/Original/src/main/Ordenation_Algorithms.h
+
