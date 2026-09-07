@@ -1,0 +1,3 @@
+Potencia de los sufijos de ω₁: {&, b, ab, bb, abb, bab, abab, babb, bbab, abbab, babab, bbabb, bbbab, abbabb, abbbab, babbab, bbabab, ababbab, abbabab, babbbab, bbabbab, abbabbab, bababbab, bbabbbab, abbabbbab, bbababbab, abbababbab}
+Potencia de los sufijos de ω₂: {&, 6, 36, 836, 3836, 93836, 793836, 6793836}
+Potencia de los sufijos de ω₃: {&}

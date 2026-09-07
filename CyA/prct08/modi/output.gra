@@ -1,0 +1,35 @@
+3
+a
+b
+c
+9
+S
+X
+Y
+A(a)
+A(b)
+B₁
+B₂
+C₁
+D₁
+20
+S A(a)B₁
+S A(a)C₁
+S A(a)D₁
+S A(a)A(b)
+X A(a)Y
+X A(b)Y
+X b
+X a
+X c
+Y A(a)Y
+Y A(b)Y
+Y a
+Y b
+Y c
+A(a) a
+A(b) b
+B₁ XB₂
+B₂ A(b)X
+C₁ A(b)X
+D₁ XA(b)

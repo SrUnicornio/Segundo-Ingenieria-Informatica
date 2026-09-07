@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra CMakeFiles/p11_AlgortimosVoraces.dir/src/EMST.cpp.o CMakeFiles/p11_AlgortimosVoraces.dir/src/EMST_main.cpp.o CMakeFiles/p11_AlgortimosVoraces.dir/src/point_set.cpp.o CMakeFiles/p11_AlgortimosVoraces.dir/src/point_types.cpp.o CMakeFiles/p11_AlgortimosVoraces.dir/src/sub_tree.cpp.o -o p11_AlgortimosVoraces 
